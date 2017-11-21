@@ -132,7 +132,7 @@ void setup(){
   al_start_timer(timer);
 
   // Window title
-  al_set_window_title(display,"Jumping Jimothy");
+  al_set_window_title(display,"Allegro 5 Engine Template");
 
   std::cout<<" Sucesss.\n";
 

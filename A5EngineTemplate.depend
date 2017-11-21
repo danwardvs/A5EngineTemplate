@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1496884496 source:c:\users\danny\documents\a5enginetemplate\src\init.cpp
+	"init.h"
+
+1494764977 source:c:\users\danny\documents\a5enginetemplate\src\joysticklistener.cpp
+	"joystickListener.h"
+
+1494764977 source:c:\users\danny\documents\a5enginetemplate\src\keylistener.cpp
+	"keyListener.h"
+
+1510700947 source:c:\users\danny\documents\a5enginetemplate\src\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<mouseListener.h>
+	<keyListener.h>
+	<joystickListener.h>
+	"init.h"
+	"state.h"
+	"menu.h"
+
+1510700988 source:c:\users\danny\documents\a5enginetemplate\src\menu.cpp
+	"menu.h"
+
+1494764978 source:c:\users\danny\documents\a5enginetemplate\src\mouselistener.cpp
+	"mouseListener.h"
+
+1494764978 source:c:\users\danny\documents\a5enginetemplate\src\state.cpp
+	"state.h"
+
+1507575475 source:c:\users\danny\documents\a5enginetemplate\src\tools.cpp
+	"tools.h"
+
+1494764976 c:\users\danny\documents\a5enginetemplate\include\init.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"state.h"
+
+1494764976 c:\users\danny\documents\a5enginetemplate\include\state.h
+
+1494764976 c:\users\danny\documents\a5enginetemplate\include\joysticklistener.h
+	<iostream>
+	<allegro5/allegro.h>
+
+1494764976 c:\users\danny\documents\a5enginetemplate\include\keylistener.h
+	<iostream>
+	<allegro5/allegro.h>
+
