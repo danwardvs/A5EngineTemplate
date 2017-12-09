@@ -32,7 +32,6 @@
 			<Add option="-lallegro_dialog" />
 			<Add option="-lallegro_ttf" />
 			<Add option="-lallegro_acodec" />
-			<Add option="-lBox2D" />
 			<Add directory="include" />
 		</Linker>
 		<Unit filename="include/globals.h" />
